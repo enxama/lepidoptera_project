@@ -25,47 +25,60 @@ library(RColorBrewer)
 library(cptcity)
 library(wesanderson)
 library(sp)
+library(readr)
 
+#definir diretorio
+setwd("C:\\Users\\laris\\OneDrive\\Documentos\\home\\lepidoptera_project\\Atlantic_Forest_Lepidoptera")
+
+getwd()
+
+dir()
 
 #importar dados
-datasp <- ATLANTIC_BUTTERFLIES_species
-datasites <- ATLANTIC_BUTTERFLIES_sites
 
-#remover nao-Atlantic Forest da coluna Olsonr200r
+#referencias
+ATLANTIC_BUTTERFLIES_references <- read_delim("~/home/projeto-disciplina-geospacial-r/lepidoptera_project/Atlantic_Forest_Lepidoptera/ATLANTIC_BUTTERFLIES_references.csv", 
+                                              ";", escape_double = FALSE, trim_ws = TRUE)
+View(ATLANTIC_BUTTERFLIES_references)
 
-datasites_sample <- datasites[datasites$Olsong200r == "Atlantic Forests", ]
-datasites_sample
+#sites
+ATLANTIC_BUTTERFLIES_sites <- read_delim("~/home/projeto-disciplina-geospacial-r/lepidoptera_project/Atlantic_Forest_Lepidoptera/ATLANTIC_BUTTERFLIES_sites.csv", 
+                                         ";", escape_double = FALSE, trim_ws = TRUE)
+View(ATLANTIC_BUTTERFLIES_sites)
 
-#criando tabela nova
-
-write.csv(datasites_sample, "ATLANTIC_LEPIDOPTERA_sites_Atlantic_Forest.csv", row.names = FALSE, quote = FALSE)
-
-openxlsx::write.xlsx(datasites_sample, "ATLANTIC_LEPIDOPTERA_sites_Atlantic_Forest.xlsx", row.names = FALSE, quote = FALSE)
-
-#abrindo tabela nova
-
-da <- readr::read_csv(here::here("ATLANTIC_LEPIDOPTERA_sites_Atlantic_Forest.csv"))
-
+#species
+ATLANTIC_BUTTERFLIES_species <- read_delim("~/home/projeto-disciplina-geospacial-r/lepidoptera_project/Atlantic_Forest_Lepidoptera/ATLANTIC_BUTTERFLIES_species.csv", 
+                                           ";", escape_double = FALSE, trim_ws = TRUE)
+View(ATLANTIC_BUTTERFLIES_species)
 
 #remover altitude less than 1000
 
-da_alt <- da[datasites_sample$Altitude1km < 1000, ]
+da_alt <- ATLANTIC_BUTTERFLIES_sites[ATLANTIC_BUTTERFLIES_sites$Altitude1km < 1000, ]
 da_alt
 
-#remover linhas com NA em todas as colunas 1km
+#criando tabelas novas
 
-da_alt_na_all <- da_alt %>% 
-  tidyr::drop_na()
-da_alt_na_all
+write.csv(da_alt, "ATLANTIC_LEPIDOPTERA_sites_altitudinal_cut.csv", row.names = FALSE, quote = FALSE)
+openxlsx::write.xlsx(da_alt, "ATLANTIC_LEPIDOPTERA_sites_altitudinal_cut.xlsx", row.names = FALSE, quote = FALSE)
+
+#renomear coluna problematica
+
+sp_rename <- ATLANTIC_BUTTERFLIES_species %>% 
+  rename(wing_size = `Wing size`)
+sp_rename
+
+#calculando media asa por lugar
 
 
-#selecionar colunas pelo nome
 
-da_select <- da_alt_na_all %>% 
-  select(Altitude1km, Latitude, Longitude)
-da_select
+
+
+
+
+
 
 #nota: mutate() adiciona novas colunas ou adiciona resultados em colunas existentes
+
 
 
 #criar pasta para importar dados geograficos

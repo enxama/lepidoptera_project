@@ -26,6 +26,7 @@ library(cptcity)
 library(wesanderson)
 library(sp)
 library(readr)
+library(ggplot2)
 
 #definir diretorio
 setwd("C:\\Users\\laris\\OneDrive\\Documentos\\home\\lepidoptera_project\\Atlantic_Forest_Lepidoptera")
@@ -67,18 +68,38 @@ sp_rename <- ATLANTIC_BUTTERFLIES_species %>%
   rename(wing_size = `Wing size`)
 sp_rename
 
-#calculando media asa por lugar
+#1. calculando media asa por lugar
+
+#primeiro retirar linhas com NA na coluna "wing_size"
+
+sp_drop_na <- sp_rename %>% 
+  tidyr::drop_na(wing_size)
+sp_drop_na
+
+#agora calcular tamanho médio de asa por comunidade
+
+sp_summarise_group <- sp_drop_na %>% 
+  group_by(sites_ID) %>% 
+  summarise(mean_wingsize = mean(wing_size),
+            sd_wingsize = sd(wing_size))
+sp_summarise_group
+
+#riqueza por lugar
+
+#precisa perguntar pro mauricio
+sp_richness_group <- sp_drop_na %>% 
+  group_by(sites_ID) %>% 
+  
+  summarise(nrow(Species))
+sp_richness_group
 
 
+#ATE AQUI FUNCIONA
 
+#adicionar ao atlantic sites
 
-
-
-
-
-
-#nota: mutate() adiciona novas colunas ou adiciona resultados em colunas existentes
-
+sp_drop_na %>% mutate(mean_wingsize, sd_wingsize)
+#duvida: como adicionar uma planilha na outra???
 
 
 #criar pasta para importar dados geograficos
@@ -90,14 +111,3 @@ options(timeout = 600)
 #espaço em branco pra importarmos os dados geograficos
 
 
-#yeah
-
-#converter dados sf sample
-
-
-#Dúvidas:
-#2. onde fazer download dos dados
-#3. como usar dados climaticos para fazer input
-#4. é normal o esquema do NA ter dado ruim?
-#5. baixar individualmente os dados?
-#6. converter coordenadas

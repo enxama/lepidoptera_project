@@ -301,6 +301,6 @@ ggplot(data = sites_data) +
   theme_bw() +
   labs(x = "Homogeinidade", y = "Tamanho da asa (cm)")
 
-
+#FIM
 # -------------------------------------------------------------------------
 

@@ -16,10 +16,12 @@ bor1014,Brazil,SANTA CATARINA,JOINVILLE,Joinville,-26.351116,-48.820565,Not Prec
 bor1015,Brazil,SANTA CATARINA,JARAGUA DO SUL,Jaragua do Sul,-26.496003,-49.121083,Not Precise,NA,50-100,262,20.32,1608,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1016,Brazil,SANTA CATARINA,AGROLANDIA,Agrolandia,-27.456714,-49.842142,30,NA,550-600,844,17.2,1573,Atlantic Forests,Araucaria moist forests,Floresta Ombrofila Mista,Florestas de Araucaria
 bor1017,Brazil,SANTA CATARINA,CURITIBANOS,Curitibanos,-27.269972,-50.660883,30,NA,900,914,15.36,1632,Atlantic Forests,Araucaria moist forests,Floresta Ombrofila Mista,Florestas de Araucaria
+bor1018,Brazil,RIO DE JANEIRO,ITATIAIA,Paque Nacional do Itatiaia,-22.375278,-44.662222,9000,28086.06751,2000-2600,2534,9.39,2300,Atlantic Forests,Campos Rupestres montane savanna,Floresta Ombrofila Densa,Florestas de Interior
 bor1019,Brazil,RIO DE JANEIRO,GUAPIMIRIM,Guapimirim,-22.49305556,-42.94916667,30,NA,50-250,305,22,1441,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1020,Brazil,RIO DE JANEIRO,CACHOEIRAS DE MACACU,Reserva Ecologica de Guapiacu,-22.45388889,-42.77166667,30,7.385,30-180,120,22.85,1284,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1021,Brazil,RIO DE JANEIRO,CACHOEIRAS DE MACACU,Boca do Mato,-22.40583333,-42.60694444,30,NA,200-450,488,20.28,1277,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1022,Brazil,RIO DE JANEIRO,PETROPOLIS,Independencia and Alto Xerem and Petropolis,-22.54416667,-43.20472222,30,NA,900-1000,592,18.38,1867,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
+bor1023,Brazil,RIO DE JANEIRO,TERESOPOLIS,Teresopolis and Parque Nacional da Serra dos Orgaos,-22.455,-43.00055556,30,10.653,950-1800,1079,15.53,1745,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1024,Brazil,RIO DE JANEIRO,NOVA FRIBURGO,Nova Friburgo,-22.28,-42.51361111,1200,NA,850-1300,916,17.17,1412,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1025,Brazil,RIO DE JANEIRO,TERESOPOLIS,Santa Dalila km 27,-22.64722222,-43.09055556,30,NA,50-100,19,22.85,1445,Atlantic Forests,Serra do Mar coastal forests,NA,NA
 bor1026,Brazil,RIO DE JANEIRO,RIO DE JANEIRO,Tijuca and Sumare and Paineiras,-22.94611111,-43.22916667,Not Precise,NA,300-600,282,20.45,1372,Atlantic Forests,Serra do Mar coastal forests,NA,NA
@@ -36,12 +38,17 @@ bor1036,Brazil,ESPIRITO SANTO,SANTA LEOPOLDINA,Represa Suica,-20.08222222,-40.56
 bor1037,Brazil,ESPIRITO SANTO,ITAGUACU,Itaguacu,-19.62333333,-40.87416667,30,NA,120-200,249,23.1,1186,Atlantic Forests,Bahia coastal forests,Floresta Ombrofila Densa,Bahia
 bor1038,Brazil,ESPIRITO SANTO,BAIXO GUANDU,Baixo Guandu,-19.4675,-41.06388889,30,NA,100-200,139,23.26,1150,Atlantic Forests,Bahia interior forests,Floresta Estacional Semidecidual,Florestas de Interior
 bor1039,Brazil,ESPIRITO SANTO,LINHARES,Reserva Natural Vale and Linhares,-19.14861111,-40.04555556,30,21787,20-60,45,23.55,1191,Atlantic Forests,Bahia coastal forests,Floresta Ombrofila Densa,Bahia
+bor1040,Brazil,MINAS GERAIS,ALTO DO CAPARAO,Parque Nacional do Caparao,-20.41916667,-41.84416667,30,31762.93446,900-1800,1522,16,1382,Atlantic Forests,Campos Rupestres montane savanna,Floresta Estacional Semidecidual,Florestas de Interior
 bor1041,Brazil,MINAS GERAIS,MARLIERIA,Parque Estadual do Rio Doce,-19.8,-42.63333333,12000,35970,260-360,297,22.69,1213,Atlantic Forests,Bahia interior forests,Floresta Estacional Semidecidual,Florestas de Interior
+bor1042,Brazil,MINAS GERAIS,BELO HORIZONTE,Barreiro and Parque Municipal Americo Rene Gianetti and Area de Protecao Especial Manancial Cercadinho,-20.004822,-43.998219,Not Precise,NA,1026,1093,19.7,1579,Atlantic Forests,Bahia interior forests,Savana,Florestas de Interior
+bor1043,Brazil,MINAS GERAIS,MONTE VERDE,Monte Verde,-22.877483,-46.032097,30,NA,1600-1700,1777,13.3,1796,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
+bor1044,Brazil,MINAS GERAIS,EXTREMA,Extrema,-22.9,-46.33333333,12000,NA,1000-1650,1325,15.9,1604,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1045,Brazil,SAO PAULO,SAO VICENTE,Baixada Santista and Parque Estadual  Xixova Japui,-23.99861111,-46.4425,2200,NA,10-200,1,22.79,2512,NA,Southern Atlantic mangroves,Floresta Ombrofila Densa,Serra do Mar
 bor1046,Brazil,SAO PAULO,CUBATAO,Vale do Quilombo,-23.81527778,-46.30388889,30,NA,10-200,340,21.24,2902,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1047,Brazil,SAO PAULO,TEODORO SAMPAIO,Teodoro Sampaio and Parque Estadual Morro do Diabo,-22.45,-52.16666667,10000,33845.33,260-460,307,22.48,1159,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Semidecidual,Florestas de Interior
 bor1048,Brazil,SAO PAULO,JUNDIAI,Reserva Biologica da Serra do Japi,-23.23111111,-46.93555556,30,2071,700-1000,950,17.17,1373,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1049,Brazil,SAO PAULO,COTIA,Reserva Florestal do Morro Grande,-23.71416667,-46.99694444,30,10600,850-950,917,16.78,1574,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
+bor1050,Brazil,SAO PAULO,SAO LUIZ DO PARAITINGA,Sao Luis Do Paraitinga,-23.33333333,-45.33333333,30,NA,900,1035,16.8,1624,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1051,Brazil,SAO PAULO,CAMPINAS,Mata de Santa Genebra,-22.82194444,-47.10805556,30,241.5513778,620,610,20.52,1277,Atlantic Forests,Alto Parana Atlantic forests,Areas de Tensao Ecologica,Florestas de Interior
 bor1052,Brazil,SAO PAULO,CAMPINAS,Usina Hidreletrica Salto Grande,-22.93194444,-46.89138889,30,NA,720-750,708,19.08,1302,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1053,Brazil,SAO PAULO,CAMPINAS,Residencial Shangrila,-22.93333333,-47.05,1200,NA,700-750,684,20.22,1338,Atlantic Forests,Alto Parana Atlantic forests,Areas de Tensao Ecologica,Florestas de Interior
@@ -52,6 +59,7 @@ bor1057,Brazil,SAO PAULO,CAMPINAS,Refugio de Vida Silvestre Mata Ribeirao Cachoe
 bor1058,Brazil,SAO PAULO,ARARAS,Araras and Loreto and Fazenda Santa Cruz,-22.38111111,-47.31888889,30,NA,600-650,610,20.5,1303,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Semidecidual,Florestas de Interior
 bor1059,Brazil,SAO PAULO,MIRASSOL,Parque Natural Municipal Grota de Mirassol,-20.825,-49.50972222,120,20.34,520,462,22.55,1224,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Semidecidual,Florestas de Interior
 bor1060,Brazil,SAO PAULO,MIRASSOL,Attilo Loqueis,-20.80638889,-49.58916667,30,NA,500,462,22.6,1205,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Semidecidual,Florestas de Interior
+bor1061,Brazil,SAO PAULO,CAMPOS DO JORDAO,Parque Estadual Campos do Jord<e3>o,-22.72611111,-45.53444444,30,8341,1600-2000,1773,13.13,1856,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1062,Brazil,SAO PAULO,BOTUCATU,Estacao Ecologica Pavuna,-22.83333333,-48.51666667,30,NA,500,758,19.34,1323,Cerrado Woodlands and Savannas,Cerrado,Savana,Florestas de Interior
 bor1063,Brazil,SAO PAULO,SAO JOSE DO RIO PARDO,Fazenda Fortaleza and Usina Itaiquara,-21.46666667,-46.8,12000,NA,900,773,20.29,1451,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Semidecidual,Florestas de Interior
 bor1064,Brazil,SAO PAULO,RIO CLARO,Horto Florestal de Rio Claro,-22.421086,-47.531903,30,2230,630-720,609,20.23,1270,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Semidecidual,Florestas de Interior
@@ -63,6 +71,7 @@ bor1069,Brazil,SAO PAULO,UBATUBA,Parque Estadual da Serra do Mar Nucleo Picingua
 bor1070,Brazil,SAO PAULO,UBATUBA,Parque Estadual da Serra do Mar Nucleo Santa Virg<ed>nia,-23.328222,-45.100175,30,332000,980-1070,964,16.8,1768,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1071,Brazil,SAO PAULO,UBATUBA,Sert<e3>o da Praia Dura,-23.47861111,-45.17611111,30,NA,mai/30,69,22.17,2473,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1072,Brazil,SAO PAULO,RIBEIRAO PRETO,Mata Santa Tereza and Esta<e7><e3>o Ecologica de Ribeir<e3>o Preto,-21.23333333,-47.91666667,Not Precise,NA,655-700,613,21.51,1444,Cerrado Woodlands and Savannas,Cerrado,Areas de Tensao Ecologica,Florestas de Interior
+bor1073,Brazil,SAO PAULO,PINDAMONHANGABA,Pindamonhangaba and Trabiju,-22.83833333,-45.52305556,30,NA,720-1100,1073,19,1499,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Semidecidual,Florestas de Interior
 bor1074,Brazil,SAO PAULO,TAUBATE,Taubate and Canineo, SP,-23.03694444,-45.49277778,30,NA,590-660,603,20.34,1295,Atlantic Forests,Serra do Mar coastal forests,Floresta Ombrofila Densa,Serra do Mar
 bor1075,Brazil,BAHIA,WENCESLAU GUIMARAES,Estacao Ecologica de Wenceslau Guimaraes,-13.59527778,-39.71944444,30,2418,200-500,355,20.48,1457,Atlantic Forests,Bahia coastal forests,Floresta Ombrofila Densa,Bahia
 bor1076,Brazil,BAHIA,ITABATA,Rio Mucuri and Itabata,-18.09027778,-39.89222222,30,NA,25-90,47,24.05,1313,Atlantic Forests,Bahia coastal forests,Floresta Ombrofila Densa,Bahia
@@ -82,15 +91,18 @@ bor1089,Brazil,MATO GROSSO DO SUL,BONITO,Parque Nacional da Serra da Bodoquena,-
 bor1090,Brazil,RIO GRANDE DO SUL,PELOTAS,Pelotas e arredores,-31.676944,-52.417097,Not Precise,NA,20-70,78,19.26,1391,NA,Uruguayan savanna,NA,NA
 bor1091,Brazil,MINAS GERAIS,MATIAS CARDOSO,Parque Estadual da Lagoa do Cajueiro,-14.9333,-43.8333,30,20500,440-500,456,24.15,804,NA,Caatinga,Areas de Tensao Ecologica,Sao Francisco
 bor1092,Argentina,MISIONES,COMANDANTE ANDRESITO,Reserva Privada Yacutinga,-25.565583,-54.077485,30,570,210-310,219,20.09,1769,Atlantic Forests,Alto Parana Atlantic forests,NA,NA
-NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bor1093,Argentina,MISIONES,PUERTO IGUAZU,Parque y Reserva Nacional Iguazu,-25.683611,-54.453889,30,67620,180-250,NA,NA,NA,NA,NA,NA,NA
 bor1094,Argentina,MISIONES,SAN IGNACIO,Parque Provincial Teyu Cuare and Reserva Privada Osununu,-27.279268,-55.578289,30,78,80-180,170,21.37,1681,Atlantic Forests,Alto Parana Atlantic forests,NA,NA
 bor1095,Brazil,PARANA,JAGUARIAIVA,Jaguariaiva,-24.305574,-49.726016,30,NA,800-900,894,17.08,1401,Cerrado Woodlands and Savannas,Cerrado,Savana,Florestas de Araucaria
 bor1096,Brazil,GOIAS,MORRINHOS,Morrinhos,-17.77,-49.19694444,1200,NA,780-800,812,22.22,1543,Cerrado Woodlands and Savannas,Cerrado,NA,NA
 bor1097,Brazil,PARANA,PONTA GROSSA,Ponta Grossa,-25.09944444,-50.15833333,Not Precise,NA,800-850,908,17.3,1486,Cerrado Woodlands and Savannas,Cerrado,Savana,Florestas de Araucaria
+bor1098,Brazil,MINAS GERAIS,SANTANA DO RIACHO,Parque Nacional da Serra do Cipo,-19.366944,-43.538056,Not Precise,33800,600-1800,1395,18.35,1533,Cerrado Woodlands and Savannas,Cerrado,NA,NA
+bor1099,Brazil,MINAS GERAIS,NOVA LIMA,Area de Protecao Especial Manancial Mutuca,-20.01027778,-43.96888889,30,1250,1100-1200,1210,18.8,1607,Atlantic Forests,Campos Rupestres montane savanna,Savana,Florestas de Interior
 bor1100,Brazil,SAO PAULO,ITIRAPINA,Itirapina and Campo Alegre,-22.26055556,-47.89666667,30,NA,750-800,921,19.68,1360,Cerrado Woodlands and Savannas,Cerrado,Savana,Florestas de Interior
 bor1101,Brazil,SAO PAULO,MOGI GUACU,Campininha,-22.29916667,-47.10638889,30,NA,580-590,604,20.76,1308,Cerrado Woodlands and Savannas,Cerrado,Areas de Tensao Ecologica,Florestas de Interior
 bor1102,Brazil,SAO PAULO,LUIZ ANTONIO,Estacao Ecologica Jatai,-21.60105556,-47.80695556,30,9010,550-600,609,21.6,1371,Cerrado Woodlands and Savannas,Cerrado,Savana,Florestas de Interior
 bor1103,Brazil,SAO PAULO,SANTA RITA DO PASSA QUATRO,ARIE P<e9> de Gigante and Parque Estadual de Vassununga,-21.623477,-47.625408,30,NA,640-720,655,21.02,1413,Cerrado Woodlands and Savannas,Cerrado,Savana,Florestas de Interior
+bor1104,Brazil,SAO PAULO,PEDREGULHO,Parque Estadual das Furnas do Bom Jesus,-20.240917,-47.461075,30,2069,800-970,1014,19.93,1588,Cerrado Woodlands and Savannas,Cerrado,Savana,Florestas de Interior
 bor1105,Brazil,SAO PAULO,ITAPETININGA,Itapetininga,-23.58333333,-48.16666667,30,NA,640-680,638,19.01,1189,Cerrado Woodlands and Savannas,Cerrado,Savana,Florestas de Interior
 bor1106,Brazil,SAO PAULO,ASSIS,Estacao Ecologica de Assis,-22.66666667,-50.13333333,Not Precise,1760.64,540-560,593,20.64,1191,Cerrado Woodlands and Savannas,Cerrado,Savana,Florestas de Interior
 bor1107,Brazil,GOIAS,PIRENOPOLIS,Fazenda Babilonia,-16.02083333,-49.08444444,30,NA,670,799,23.22,1665,Cerrado Woodlands and Savannas,Cerrado,NA,NA
@@ -106,5 +118,6 @@ bor1116,Brazil,RIO GRANDE DO NORTE,PARNAMIRIM,Mata do Jiqui,-5.927762,-35.183645
 bor1117,Brazil,RIO GRANDE DO SUL,DOIS IRMAOS,Dois irmaos,-29.559801,-51.111174,30,NA,170-500,314,18.71,1582,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Decidual,Florestas de Araucaria
 bor1118,Brazil,RIO GRANDE DO SUL,PORTO ALEGRE,Porto Alegre,-30.098678,-51.157301,30,NA,70-130,130,19.41,1505,NA,Uruguayan savanna,Areas de Tensao Ecologica,Florestas de Interior
 bor1119,Brazil,BAHIA,ELISIO MEDRADO,Serra da Jiboia,-12.826644,-39.734882,30,NA,320-600,443,22.22,632,NA,Caatinga,NA,NA
+bor1120,Brazil,MINAS GERAIS,POCOS DE CALDAS,Po<e7>os de Caldas,-21.76992582,-46.57322491,30,NA,1300-1600,1569,16.76,1729,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Semidecidual,Florestas de Interior
 bor1121,Brazil,MINAS GERAIS,ALFENAS,Alfenas,-21.42964807,-45.94766311,Not Precise,NA,720-1350,845,19.98,1569,Atlantic Forests,Alto Parana Atlantic forests,Floresta Estacional Semidecidual,Florestas de Interior
 bor1122,Brazil,BAHIA,CRUZ DAS ALMAS,Campus da Universidade Federal do Reconcavo Baiano,-12.65,-39.11666667,Not Precise,NA,220,139,23.14,1078,Atlantic Forests,Bahia interior forests,Floresta Estacional Semidecidual,Diamantina
